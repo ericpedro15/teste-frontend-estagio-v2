@@ -2,8 +2,6 @@
 
 ![Aiko](img/aiko.png)
 
-<a href="https://ericpedro15.github.io/teste-frontend-estagio-v2/">Executar o teste</a>
-
 Neste teste serão avaliados seus conhecimentos em Javascript, HTML e CSS, a criatividade e metodologia aplicada no desenvolvimento, a usabilidade e design da aplicação final.
 
 ## O Desafio
